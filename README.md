@@ -1,39 +1,64 @@
-# Hey, I'm Abhishek.
+<div align="center">
 
-**I turn ideas into products, and complex problems into systems that scale.**
+<img src="./docs/profile-banner.svg" alt="Ideas are easy. Making them real is the art." width="100%" />
 
-I'm an engineering leader, architect, and builder with 14+ years of experience across startups and large-scale technology platforms.
+<br />
 
-My work sits at the intersection of **engineering, AI, product, and business**.
+### Hey, I'm Abhishek. 👋
 
-I enjoy the full journey — spotting opportunities, questioning assumptions, designing solutions, building technology, and figuring out how to make it genuinely useful.
+**Engineering leader · Product thinker · Independent builder**
 
-### What I'm interested in
+I work where **engineering, AI, product, and business** meet. I like the entire journey: finding the interesting problem, questioning assumptions, making something real, and learning from the result.
 
-- **Building products** — From identifying a problem to shipping something people actually want.
-- **AI & intelligent systems** — Exploring how AI changes the way we build, operate, and interact with software.
-- **Architecture & scale** — Making complex systems simpler, resilient, and ready to grow.
-- **Product & business strategy** — Connecting technical decisions with real-world outcomes.
-- **Experimentation** — Turning curiosity into working prototypes, products, and occasionally businesses.
+[**Explore my website ↗**](https://abhishekchaudhary.github.io/abhishekchaudhary/) &nbsp; · &nbsp; [**Find me on X ↗**](https://x.com/now_abhi_)
 
-### Things I've built
-
-**[MappaMind](https://mappamind.github.io/mappamind/)**
-
-Exploring how AI can help developers understand, navigate, and reason about software architecture.
-
-**[Blind 75 Master Key](https://blind-75.com/)**
-
-Making algorithmic thinking easier to understand and remember through visualization, patterns, and interactive learning.
-
-### How I think
-
-> Technology is a tool. The interesting part is figuring out what deserves to be built.
-
-I believe the best builders understand more than code. They understand people, products, systems, and the trade-offs that connect them.
-
-I care about thoughtful engineering, strong execution, simple solutions to difficult problems, and ideas that survive contact with reality.
+</div>
 
 ---
 
-**Always curious. Usually building.**
+### What I'm building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [✳ MappaMind](https://mappamind.github.io/mappamind/)
+
+**See the system, not just the diff.**
+
+AI agents can make changes faster than we can reason about them. MappaMind turns those changes into code-grounded pictures of behavior, contracts, and architecture, so developers can understand the impact before accepting a diff.
+
+[Live examples ↗](https://mappamind.github.io/mappamind/) · [Source ↗](https://github.com/mappamind/mappamind)
+
+</td>
+<td width="50%" valign="top">
+
+#### [↗ Blind 75 Master Key](https://blind-75.com/)
+
+**Learn the pattern, not just the answer.**
+
+An interactive way to develop algorithmic intuition through visual explanations, problem-solving patterns, and deliberate practice. Built to make understanding stick.
+
+[Try the product ↗](https://blind-75.com/)
+
+</td>
+</tr>
+</table>
+
+### How I think
+
+> The interesting question isn't just *can we build this?* It's *should this exist—and can we make it genuinely useful?*
+
+I believe the strongest builders understand the connections between people, products, systems, and real-world trade-offs. After **14+ years** building in startups and large technology organizations, that intersection is still what fascinates me most.
+
+**Question deeply → connect the dots → build simply → keep learning.**
+
+---
+
+<div align="center">
+
+*Always curious. Usually building.*
+
+<sub>View the full experience → <a href="https://abhishekchaudhary.github.io/abhishekchaudhary/">personal website</a></sub>
+
+</div>

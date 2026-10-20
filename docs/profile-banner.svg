@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Abhishek Chaudhary — Ideas are easy. Making them real is the art.</title><desc id="desc">An editorial banner with a dark background, oversized cream typography and a coral orbital illustration.</desc>
+<defs><pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#57616b" stroke-width=".65" opacity=".21"/></pattern><clipPath id="clip"><rect width="1200" height="360" rx="20"/></clipPath></defs>
+<g clip-path="url(#clip)"><rect width="1200" height="360" fill="#151916"/><rect x="772" width="428" height="360" fill="#293146"/><rect x="772" width="428" height="360" fill="url(#grid)"/>
+<text x="45" y="42" font-size="12" font-family="monospace" letter-spacing="2" fill="#abc0ac">AC ✳ / ENGINEERING × AI × PRODUCT × BUSINESS</text>
+<text x="44" y="142" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="69" letter-spacing="-5" fill="#f5f3ed">Ideas are easy.</text>
+<text x="44" y="219" font-family="Georgia,serif" font-style="italic" font-size="74" letter-spacing="-3" fill="#f5f3ed">Making them real</text>
+<path d="M47 233 Q255 244 521 230" stroke="#e75b35" stroke-width="5" fill="none"/>
+<text x="45" y="305" font-family="Arial,Helvetica,sans-serif" font-weight="700" letter-spacing="-3" font-size="66" fill="#f5f3ed">is the art<tspan fill="#e75b35">.</tspan></text>
+<circle cx="986" cy="176" r="152" fill="none" stroke="#8997b7" stroke-dasharray="4 8"/><circle cx="986" cy="176" r="111" fill="none" stroke="#8997b7"/><circle cx="986" cy="176" r="70" fill="#f18569" opacity=".65"/><circle cx="976" cy="165" r="70" fill="#e75b35"/>
+<text x="976" y="146" font-family="Georgia,serif" font-style="italic" font-size="37" text-anchor="middle" fill="#19211c">WHAT</text><text x="976" y="184" font-family="Georgia,serif" font-style="italic" font-size="37" text-anchor="middle" fill="#19211c">IF?</text>
+<circle cx="871" cy="90" r="6" fill="#c8ef5e"/><circle cx="1112" cy="275" r="5" fill="#e75b35"/><path d="M779 343H1185" stroke="#7382a2" stroke-width="1"/>
+<text x="795" y="335" font-size="10" letter-spacing="2" font-family="monospace" fill="#b5bdd3">FROM WHAT IF → TO WHAT'S NEXT</text></g></svg>
